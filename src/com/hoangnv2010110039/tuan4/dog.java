@@ -1,9 +1,9 @@
 package com.hoangnv2010110039.tuan4;
 
 public class dog {
-    String name;
-    int size;
-    String color;
+    public String name;
+    public int size;
+    public String color;
 
     public dog(int s){
         size = s;
