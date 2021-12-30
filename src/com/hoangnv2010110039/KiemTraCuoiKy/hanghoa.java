@@ -10,7 +10,7 @@ public class hanghoa {
     int soLuongTonKho;
     LocalDate ngayNhap;
 
-    public int giaHangHoa() {
+    public int giaHangHoa() { 
         return giaNhapHang;
     }
 }

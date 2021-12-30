@@ -9,6 +9,6 @@ public class testDrive {
 
     static ArrayList<hanghoa> list = new ArrayList<hanghoa>();
     public static void main(String[] args) {
-        chucnang.luaChon();
+        chucnang.luaChon(); 
     }
 }

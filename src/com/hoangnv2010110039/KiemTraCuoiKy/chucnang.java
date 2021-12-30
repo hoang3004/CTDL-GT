@@ -11,7 +11,7 @@ public class chucnang {
 
     static Scanner nhap = new Scanner(System.in);
 
-    static LocalDate date = LocalDate.now();
+    static LocalDate date =  LocalDate.now();
 
     public static void luaChon() {
         System.out.println("==============Menu=============");
